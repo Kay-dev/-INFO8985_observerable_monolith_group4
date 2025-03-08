@@ -7,6 +7,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/my-first-post/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/another-post/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
